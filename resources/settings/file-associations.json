@@ -1,0 +1,118 @@
+{
+    "extensions": {
+        "png": "file.image",
+        "jpg": "file.image",
+        "jpeg": "file.image",
+        "gif": "file.image",
+        "tif": "file.image",
+        "tiff": "file.image",
+
+        "svg": "file.svg",
+    
+        "js": "file.javascript",
+        "json": "file.json",
+        "ts": "file.typescript",
+        "jsx": "file.jsx",
+        "svelte": "file.svelte",
+        "mjs": "file.javascript",
+
+        "cpp": "file.cpp",
+        "c++": "file.cpp",
+        "hpp": "file.hpp",
+        "h++": "file.hpp",
+        "c": "file.c",
+        "h": "file.h",
+    
+        "py": "file.python",
+        "pyc": "file.pythonc",
+
+
+        "xml": "file.xml",
+
+        "html": "file.html",
+        "htm": "file.html",
+    
+        "css": "file.css",
+    
+        "txt": "file.text",
+        "rtf": "file.richtext",
+        "pdf": "file.pdf",
+    
+        "cs": "file.csharp",
+    
+        "sh": "file.shell",
+        "bat": "file.shell",
+        
+        "glsl": "file.glsl",
+        "hlsl": "file.hlsl",
+
+        "dylib": "file.sharedlib",
+        "so": "file.sharedlib",
+        "a": "file.staticlib",
+        "o": "file.object",
+
+        "exe": "file.exe",
+
+        "md": "file.markdown",
+        "gitignore": "file.git",
+        "git": "file.git",
+        "github": "file.git",
+        "csv": "file.csv",
+        "yaml": "file.yaml",
+
+        "java": "file.java"
+    },
+    "files": {
+        "package-lock.json": "file.nodejs",
+        "package.json": "file.nodejs",
+        "rollup.config.js": "file.rollup",
+        "rollup.config.mjs": "file.rollup"
+    },
+
+    "type": {
+        "svg": "file.plaintext",
+    
+        "js": "file.plaintext",
+        "json": "file.plaintext",
+        "ts": "file.plaintext",
+        "jsx": "file.plaintext",
+        "svelte": "file.plaintext",
+        "mjs": "file.plaintext",
+
+        "cpp": "file.plaintext",
+        "c++": "file.plaintext",
+        "hpp": "file.plaintext",
+        "h++": "file.plaintext",
+        "c": "file.plaintext",
+        "h": "file.plaintext",
+    
+        "py": "file.plaintext",
+        "pyc": "file.plaintext",
+
+
+        "xml": "file.plaintext",
+
+        "html": "file.plaintext",
+        "htm": "file.plaintext",
+    
+        "css": "file.plaintext",
+    
+        "txt": "file.plaintext",
+        "rtf": "file.plaintext",
+    
+        "cs": "file.plaintext",
+    
+        "sh": "file.plaintext",
+        "bat": "file.plaintext",
+        
+        "glsl": "file.plaintext",
+        "hlsl": "file.plaintext",
+
+        "md": "file.plaintext",
+        "gitignore": "file.plaintext",
+        "csv": "file.plaintext",
+        "yaml": "file.plaintext",
+
+        "java": "file.plaintext"
+    }
+}
